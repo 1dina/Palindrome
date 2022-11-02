@@ -18,9 +18,9 @@ public class Main {
             }
 
         }
-        if (counter !=1){
+        if (counter >1){
             System.out.println("No");
-        }else {
+        }else{
             System.out.println("Yes");
         }
 
